@@ -4,13 +4,13 @@ Here, we learned DeepLearning which is a subfield of machine learning concerned 
 
 
     
-   1. [Deep Learning - Intro](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/Deep%20Learning.ipynb)
+   1. [Deep Learning - Intro](https://github.com/cliferraren/DeepLearning/blob/master/Deep%20Learning.ipynb)
     
-   2. [Deep Learning - Moons](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/DeepLearning%20-%20Moons.ipynb)
+   2. [Deep Learning - Moons](https://github.com/cliferraren/DeepLearning/blob/master/DeepLearning%20-%20Moons.ipynb)
     
-   3. [Voice Gender Recognition](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/Deep%20Learning%20-%20Voice%20Gender%20Recognition.ipynb)
+   3. [Voice Gender Recognition](https://github.com/cliferraren/DeepLearning/blob/master/Deep%20Learning%20-%20Voice%20Gender%20Recognition.ipynb)
     
-   4. [Saving Models Learned](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/Saving_Models.ipynb)
+   4. [Saving Models Learned](https://github.com/cliferraren/DeepLearning/blob/master/Saving_Models.ipynb)
     
-   5. [SmartPhone Activity Monitor](https://github.com/cliferraren/Machine-Learning/blob/master/Supervised/Classification/DeepLearning/SmartPhone%20Activity%20Detector.ipynb)
+   5. [SmartPhone Activity Monitor](https://github.com/cliferraren/DeepLearning/blob/master/SmartPhone%20Activity%20Detector.ipynb)
     
