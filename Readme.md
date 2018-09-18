@@ -14,3 +14,4 @@ Here, we learned DeepLearning which is a subfield of machine learning concerned 
     
    5. [SmartPhone Activity Monitor](https://github.com/cliferraren/DeepLearning/blob/master/SmartPhone%20Activity%20Detector.ipynb)
     
+   5. [MNIST](https://github.com/cliferraren/DeepLearning/blob/master/MNIST.ipynb)
