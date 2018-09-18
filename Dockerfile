@@ -27,7 +27,7 @@ RUN apt-get update && apt-get install -y wget ca-certificates \
 
 RUN pip3 install --upgrade pip
 RUN pip3 install tensorflow numpy==1.14.5 && \
-    pip3 install --upgrade pandas scipy matplotlib seaborn jupyter pyyaml h5py pydotplus pygraphviz graphviz && \
+    pip3 install --upgrade pandas scipy matplotlib seaborn jupyter pyyaml h5py Pillow pydotplus pygraphviz graphviz && \
     pip3 install scikit-learn==0.20rc1 && \
     pip3 install keras
 
